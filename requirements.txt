@@ -1,0 +1,3 @@
+# Clawome Browser — backend dependencies live in backend/requirements.txt
+# (the Flask API + task engine + DOM compressor).
+-r backend/requirements.txt
